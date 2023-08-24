@@ -1,0 +1,16 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Directories used by popular package managers
+node_modules/
+
+# IDE-specific files (e.g., Visual Studio Code)
+.vscode/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
