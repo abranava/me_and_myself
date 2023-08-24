@@ -4,6 +4,7 @@
 # Temporary files
 *.tmp
 *.temp
+*.codio
 
 # Directories used by popular package managers
 node_modules/
